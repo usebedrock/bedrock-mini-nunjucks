@@ -1,4 +1,4 @@
-## Bedrock Mini
+## Bedrock Mini (Nunjucks version)
 
 ### A gulp workflow that does Pug, SCSS and Browsersync
 

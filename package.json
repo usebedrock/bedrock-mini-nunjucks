@@ -1,6 +1,6 @@
 {
-  "name": "bedrock-mini",
-  "version": "2.0.0",
+  "name": "bedrock-mini-nunjucks",
+  "version": "1.0.0",
   "description": "Simple prototyping setup. A mini version of Bedrock",
   "main": "index.js",
   "scripts": {
