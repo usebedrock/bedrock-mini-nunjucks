@@ -1,12 +1,10 @@
 ## Bedrock Mini
 
-**New version: now rewritten using the brand new Gulp 4 release. Faster & less code overhead.**
-
 ### A gulp workflow that does Pug, SCSS and Browsersync
 
-One step up from <a href="http://codepen.io">Codepen</a> - work in your local environment using the handiness of Pug for templating, SCSS with autoprefixing and BrowserSync.
+One step up from <a href="http://codepen.io">Codepen</a> - work in your local environment using the handiness of Nunjucks for templating, SCSS with autoprefixing and BrowserSync.
 
-* Renders Gulp templates
+* Renders Nunjucks templates
 * Has Browsersync starting a local server
 * Compiles SCSS
 
@@ -22,8 +20,8 @@ If you need more power, a styleguide, better navigation between templates, consi
 
 ### Instructions
 
-Run `npm install` then `gulp` to start working.
+Run `npm install` then `npm start` to start working.
 
-Run `gulp build` to create a build.
+Run `npm run build` to create a build.
 
 Make sure browsersync is installed globally: `npm install -g browser-sync`.
