@@ -1,0 +1,23 @@
+{
+  "name": "bedrock-mini",
+  "version": "2.0.0",
+  "description": "Simple prototyping setup. A mini version of Bedrock",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp",
+    "build": "gulp build"
+  },
+  "author": "Johan Ronsse",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.24.7",
+    "gulp": "^4.0.0",
+    "gulp-nunjucks": "^4.0.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.1",
+    "del": "^3.0.0"
+  },
+  "dependencies": {
+  }
+}
